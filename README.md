@@ -12,7 +12,10 @@ The squeezeNet with keras transfer learning examples and usage on google colabor
  So why do not we implement it. Apperenly, my friend @rcmalli has created a installer for keras but it is not working on google colaboratory environment with newer keras tf versions in case of meaningless changing library calls in every version of keras :(
  
  I have created a solution, have a nice day. Best.
+ # cifar-10 demo
+ I also would like to provide a demo that uses cifar10 with/out squeezenet pretrained imagenet weights.
  
+  
  # References
  Big thanks to!
  
